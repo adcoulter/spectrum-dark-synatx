@@ -1,19 +1,19 @@
 @import 'colors';
 
 // General colors
-@syntax-text-color: @black;
+@syntax-text-color: @light-gray;
 @syntax-cursor-color: @syntax-text-color;
-@syntax-background-color: @white;
-@syntax-selection-color: darken(@syntax-background-color, 5%);
+@syntax-background-color: @dark-gray;
+@syntax-selection-color: lighten(@syntax-background-color, 5%);
 
 // Guide colors
 @syntax-wrap-guide-color: @purple;
-@syntax-indent-guide-color: @gray;
-@syntax-invisible-character-color: @light-gray;
+@syntax-indent-guide-color: @light-gray;
+@syntax-invisible-character-color: @gray;
 
 // For find and replace markers
 @syntax-result-marker-color: @light-gray;
-@syntax-result-marker-color-selected: @white;
+@syntax-result-marker-color-selected: @light-gray;
 
 // Gutter colors
 @syntax-gutter-text-color: @syntax-invisible-character-color;
