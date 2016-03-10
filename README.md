@@ -1,5 +1,15 @@
-# spectrum-dark-syntax theme
+# spectrum-dark-syntax atom theme
 
-A short description of your theme.
+*This theme is a work in progress.*
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+**html**
+
+![html spectrum theme](https://github.com/adcoulter/spectrum-dark-syntax/blob/master/images/html.example.png?raw=true)
+
+**scss**
+
+![html spectrum theme](https://github.com/adcoulter/spectrum-dark-syntax/blob/master/images/scss.example.png?raw=true)
+
+**ruby**
+
+![html spectrum theme](https://github.com/adcoulter/spectrum-dark-syntax/blob/master/images/ruby.example.png?raw=true)
