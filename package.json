@@ -1,7 +1,7 @@
 {
   "name": "spectrum-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A colorful dark atom syntax theme.",
   "keywords": [
     "syntax",
