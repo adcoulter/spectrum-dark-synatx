@@ -13,3 +13,5 @@
 **ruby**
 
 ![html spectrum theme](https://github.com/adcoulter/spectrum-dark-syntax/blob/master/images/ruby.example.png?raw=true)
+
+![light version](https://github.com/adcoulter/spectrum-light-syntax)
